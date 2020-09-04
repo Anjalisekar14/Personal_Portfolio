@@ -232,6 +232,8 @@ ul.navbar-nav{
 @media only screen and (max-width:768px){
     .col-sm-12>img{
         margin-bottom:15px;
+        margin-left:40px !important;
+        margin-right:30px !important;
       }
 }
 .col-sm-12{
@@ -249,8 +251,9 @@ ul.navbar-nav{
 @media only screen and (max-width:768px){
     .col-sm-12{
         width:100%;
-        max-width:300px;
-        margin-left:30px !important;
+        margin-left:50px !important;
+        margin-right:50px !important;
+        
     }
 }
 .col-sm-6.project>img{
@@ -310,7 +313,7 @@ ul.navbar-nav{
 }
 @media only screen and (max-width:768px){
     .experience_img>img{
-        margin-left:50px;
+        margin-left:70px;
         margin-top:-70px;
     }
 }
