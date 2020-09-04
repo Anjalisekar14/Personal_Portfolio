@@ -145,10 +145,16 @@ ul.navbar-nav{
     .col-sm-4.content>img.icon{
         width: 70px!important;
         height:70 !important;
-        margin-left:80px !important;
+/*         margin-left:80px !important; */
 
     }
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 .col-sm-4.content>p.education{
     font-family: var(--main-font-family);
     font-size: var(--main-font-size-20);
@@ -157,6 +163,7 @@ ul.navbar-nav{
     padding-left: 10px !important;
     padding-right: 10px !important;
 }
+
 @media only screen and (max-width:768px){
     .col-sm-4.content>p.education{
         font-size: var(--main-font-size-18);
