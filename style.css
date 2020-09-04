@@ -232,7 +232,7 @@ ul.navbar-nav{
 @media only screen and (max-width:768px){
     .col-sm-12>img{
         margin-bottom:15px;
-        margin-left:50px !important;
+        margin-right:40px;
         
       }
 }
