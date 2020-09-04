@@ -232,8 +232,8 @@ ul.navbar-nav{
 @media only screen and (max-width:768px){
     .col-sm-12>img{
         margin-bottom:15px;
-        margin-left:40px !important;
-        margin-right:30px !important;
+        margin-left:30px !important;
+        
       }
 }
 .col-sm-12{
