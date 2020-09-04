@@ -145,7 +145,7 @@ ul.navbar-nav{
     .col-sm-4.content>img.icon{
         width: 70px!important;
         height:70 !important;
-        margin-left:140px !important;
+        margin-left:80px !important;
 
     }
 }
@@ -250,7 +250,7 @@ ul.navbar-nav{
     .col-sm-12{
         width:100%;
         max-width:300px;
-        margin-left:80px !important;
+        margin-left:30px !important;
     }
 }
 .col-sm-6.project>img{
