@@ -320,7 +320,7 @@ ul.navbar-nav{
 }
 @media only screen and (max-width:768px){
     .experience_img>img{
-        margin-left:120px;
+        margin-left:110px;
         margin-top:-70px;
     }
 }
